@@ -129,20 +129,20 @@ button {
 
 }
 
-.registro {
+.register {
     font-size: .9em;
     color: #fff;
     text-align: center;
     margin: 25px 0 10px;
 }
 
-.registro p a {
+.register p a {
     text-decoration: none;
     color: #fff;
     font-weight: 600;
 
 }
 
-.registro p a:hover {
+.register p a:hover {
     text-decoration: underline;
 }
